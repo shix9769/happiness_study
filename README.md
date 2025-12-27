@@ -17,9 +17,6 @@
 conda create -n happiness python=3.10
 conda activate happiness
 
-# 安装依赖
-pip install -r requirements.txt# happiness_study
-
 # 进入项目目录
 cd happiness-study
 
